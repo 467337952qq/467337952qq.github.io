@@ -669,10 +669,10 @@ hexo-generator-category@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
-hexo-generator-index@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmmirror.com/hexo-generator-index/-/hexo-generator-index-3.0.0.tgz#4c9233731e027a6af6491886a4aafe08ffdaffe0"
-  integrity sha512-83AuNN4cWdLVi//3ugR8E3kR6rrOwhXZt+hOCm1IjtIGj353/GlrtpMHpqZHU5kqipzj4miy9dweVdukXglVWw==
+hexo-generator-index@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-generator-index/-/hexo-generator-index-4.0.0.tgz#2f20cf9d231db30edbccd5be32c92c8aeb5d6d63"
+  integrity sha512-KeM7mOCKWINGFAk1E+CkjMMgqFIv8oaRbGxR7ipkQAp44o4aopkVftma4sdIplOq9WQEWfVYDUK5gEv9J3nzUg==
   dependencies:
     hexo-pagination "3.0.0"
 
@@ -745,6 +745,11 @@ hexo-theme-landscape@^1.0.0:
   version "1.1.0"
   resolved "https://registry.npmmirror.com/hexo-theme-landscape/-/hexo-theme-landscape-1.1.0.tgz#756335efcc8abd240170f16f36c4af5c4c51c739"
   integrity sha512-nszjixBEiEDZjf7glAGbHg0nKGHZdUDwzFVVdRDeu4FeHfGcY5CZNl9sF4vSligjnD8IwFXpDfx5E+GRmNKvWg==
+
+hexo-theme-webstack@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/hexo-theme-webstack/-/hexo-theme-webstack-2.1.1.tgz#25bbba7409cbdd3fd2ad172dec8d5f282d0d0acd"
+  integrity sha512-6myH/tjHm5Ofanf1m182KZ0KbUHuwwo+NRpYXX/kCXlY4731LB///rfni9bx+Uulk9/1RwbaJeXTGyJZdN36xA==
 
 hexo-util@^3.0.1, hexo-util@^3.1.0, hexo-util@^3.3.0:
   version "3.3.0"
